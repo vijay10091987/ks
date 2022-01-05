@@ -1,0 +1,4 @@
+de\dplatz\app\business\health\boundary\HealthCheckResource.class
+de\dplatz\app\business\health\boundary\HealthService.class
+de\dplatz\app\business\JaxRsApplication.class
+de\dplatz\app\presentation\Index.class
